@@ -1,11 +1,15 @@
 # SQLZoo
-https://www.sqlzoo.net/wiki/SQL_Tutorial
 
-## Functionality: 
-SQL project and practice
+This repository contains answers to the SQL Zoo querying exercises. br /
 
-## Description:
-SQL Zoo offers a comprehensive SQL tutorial with interactive exercises and quizzes. Users gain knowledge of SQL fundamentals to hone query skills, from basic commands to advanced queries. Users can write and execute SQL queries against existing databases while receiving real-time feedback to deepen their understanding of SQL concepts.
+SQL Zoo provides an interactive and comprehensive SQL tutorial, featuring exercises and quizzes that cover a range of topics from basic commands to advanced queries. Users can practice writing and executing SQL queries against existing databases while receiving real-time feedback, enhancing their understanding of key SQL concepts. br /
+
+[View SQLZoo](https://www.sqlzoo.net/wiki/SQL_Tutorial)
+
 
 ## Thoughts:
-The queries started off basic but got increasingly complex. Complex queries require more abstract thinking and logic, like traditional coding. This practice was good for learning as the queries became advanced and required substantial thinking. Advanced synchronized or nested sub-queries were initially hard to understand. Joins were confusing before this project, but there was plenty of practice to aid understanding. Overall this was a good project to review basics while also learning advanced querying. 
+The exercises started with simple queries but progressively increased in complexity, requiring more abstract thinking and logical reasoning similiar to traditional coding. Initially, JOIN operations and nested sub-queries were challenging, but there was plenty of practice to reinforce understanding. Initially, I found JOIN operations challenging, but the repeated exposure helped solidify my understanding. Overall, this project was an effective way to review foundational skills while learning advanced querying techniques.
+
+
+## Next Steps:
+To apply my SQL skills in a realistic setting, I plan to work with a mock database like the Chinook dataset, which mirrors a digital media store. To simulate a real-world scenario, I will pose as an analyst being asked questions from a ceo. I’ll create and interpret query results into understandable insights and use tools like Tableau or Power BI for data visualization. This end-to-end process will mimic real-world projects, offering practical experience beyond online exercises.
