@@ -1,8 +1,8 @@
 # SQLZoo
 
-This repository contains answers to the SQL Zoo querying exercises. br /
+This repository contains answers to the SQL Zoo querying exercises. <br/>
 
-SQL Zoo provides an interactive and comprehensive SQL tutorial, featuring exercises and quizzes that cover a range of topics from basic commands to advanced queries. Users can practice writing and executing SQL queries against existing databases while receiving real-time feedback, enhancing their understanding of key SQL concepts. br /
+SQL Zoo provides an interactive and comprehensive SQL tutorial, featuring exercises and quizzes that cover a range of topics from basic commands to advanced queries. Users can practice writing and executing SQL queries against existing databases while receiving real-time feedback, enhancing their understanding of key SQL concepts. <br/>
 
 [View SQLZoo](https://www.sqlzoo.net/wiki/SQL_Tutorial)
 
