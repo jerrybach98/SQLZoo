@@ -8,7 +8,7 @@ SQL Zoo provides an interactive and comprehensive SQL tutorial, featuring exerci
 
 
 ## Thoughts:
-The exercises started with simple queries but progressively increased in complexity, requiring more abstract thinking and logical reasoning similiar to traditional coding. Initially, JOIN operations and nested sub-queries were challenging, but there was plenty of practice to reinforce understanding. Initially, I found JOIN operations challenging, but the repeated exposure helped solidify my understanding. Overall, this project was an effective way to review foundational skills while learning advanced querying techniques.
+The exercises started with simple queries but progressively increased in complexity, requiring more abstract thinking and logical reasoning similiar to traditional coding. Initially, JOIN operations and nested sub-queries were challenging, but there was plenty of practice to reinforce understanding. Overall, this project was an effective way to review foundational skills while learning advanced querying techniques.
 
 
 ## Next Steps:
