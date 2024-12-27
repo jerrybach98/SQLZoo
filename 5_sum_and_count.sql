@@ -22,12 +22,14 @@ FROM world
 WHERE name IN ('Estonia', 'Latvia', 'Lithuania');
 
 -- 6. 
-SELECT continent, count(name)
+SELECT continent,
+    count(name)
 FROM world
 GROUP BY continent;
 
 -- 7. 
-SELECT continent, count(name)
+SELECT continent,
+    count(name)
 FROM world
 WHERE population >= 10000000
 GROUP BY continent;
