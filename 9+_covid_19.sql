@@ -73,7 +73,9 @@ SELECT name,
    ) rc
 FROM covid
 WHERE whn = '2020-04-20'
-ORDER BY confirmed DESC -- 7. 
+ORDER BY confirmed DESC
+
+ -- 7. 
 SELECT world.name,
    ROUND(100000 * confirmed / population, 2),
    RANK() OVER (

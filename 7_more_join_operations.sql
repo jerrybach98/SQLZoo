@@ -72,7 +72,9 @@ FROM movie
     JOIN actor ON actorid = actor.id
 WHERE name = 'Rock Hudson'
 GROUP BY yr
-HAVING COUNT(title) > 2 -- 12. 
+HAVING COUNT(title) > 2 
+
+-- 12. 
 SELECT title,
     name
 FROM movie

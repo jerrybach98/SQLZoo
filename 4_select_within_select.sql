@@ -84,7 +84,9 @@ WHERE area >= ALL (
     WHERE y.continent = x.continent
       AND area > 0
 
-  ) -- 8. 
+  ) 
+  
+-- 8. 
 SELECT continent,
   name
 FROM world x
